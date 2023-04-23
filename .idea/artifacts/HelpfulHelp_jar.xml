@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelpfulHelp:jar">
+    <output-path>$PROJECT_DIR$/../../.Compiled Output</output-path>
+    <root id="archive" name="HelpfulHelp.jar">
+      <element id="module-output" name="HelpfulHelp" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

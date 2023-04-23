@@ -1,0 +1,71 @@
+unknown-category:
+  - "&3&l&m-------------------------------------------"
+  - "&cUnknown help category."
+  - "&3&l&m-------------------------------------------"
+
+help-menu:
+  header:
+    - "&3&l&m-------------------------------------------"
+    - "&cRevelationMC help menu:"
+    - "&7Website&8:&b http://www.revelationmc.net/"
+    - "&7Server IP&8:&b revelationmc.net"
+    - ""
+  categories:
+    guns:
+      name: "&8[&9+&8] &bGuns"
+      hover: "&aClick for more info."
+      command: "/help guns"
+    jobs:
+      name: "&8[&9+&8] &bJobs"
+      hover: "&aClick for more info."
+      command: "/help jobs"
+    mywarps:
+      name: "&8[&9+&8] &bMyWarps"
+      hover: "&aClick for more info."
+      command: "/mywarps help"
+    pets:
+      name: "&8[&9+&8] &bPets"
+      hover: "&aClick for more info."
+      command: "/help pets"
+    vehicles:
+      name: "&8[&9+&8] &bVehicles"
+      hover: "&aClick for more info."
+      command: "/help vehicles"
+  footer:
+    - "&3&l&m-------------------------------------------"
+
+categories:
+  guns:
+    - "&3&l&m-------------------------------------------"
+    - "&cIdk how the whole guns thing works, Mayfish. Could you explain this?"
+    - "&3&l&m-------------------------------------------"
+  jobs:
+    - "&3&l&m-------------------------------------------"
+    - "&aJobs are a great way to earn money on the server."
+    - ""
+    - "&8/&bjobs browse &8-&7 Opens the jobs list."
+    - "&3&l&m-------------------------------------------"
+  pets:
+    - "&3&l&m-------------------------------------------"
+    - "&aAll players have access to pets. Default ranked players are only allowed a pig pet."
+    - ""
+    - "&8/&bpet select &8-&7 This opens the pet selector menu."
+    - "&8/&bpet name <name> &8-&7 Rename your pet."
+    - "&8/&bpet menu &8-&7 Opens the pet menu."
+    - "&3&l&m-------------------------------------------"
+  vehicles:
+    - "&3&l&m-------------------------------------------"
+    - "&aAll players have access to vehicles. Default ranked players are only allowed to use cars."
+    - ""
+    - "&8/&bbikeshop &8-&7 Opens the bike shop."
+    - "&8/&bcarshop &8-&7 Opens the car shop."
+    - "&8/&btrainshop &8-&7 Opens the train shop."
+    - "&8/&braftshop &8-&7 Opens the raft shop."
+    - "&8/&bplaneshop &8-&7 Opens the plans shop."
+    - "&8/&bparachuteshop &8-&7 Opens the parachute shop."
+    - "&8/&btankshop &8-&7 Opens the tank shop."
+    - "&8/&bhelicoptershop &8-&7 Opens the helicopter shop."
+    - "&8/&bsubmarineshop &8-&7 Opens the submarine shop."
+    - "&8/&bbroomshop &8-&7 Opens the broom shop."
+    - "&8/&bhoverbikeshop &8-&7 Opens the hoverbike shop."
+    - "&3&l&m-------------------------------------------"

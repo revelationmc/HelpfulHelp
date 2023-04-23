@@ -1,0 +1,21 @@
+name: HelpfulHelp
+description: None.
+
+author: SavageAvocado.
+website: savagedev.net
+
+main: net.savagedev.helpfulhelp.HelpfulHelp
+version: 1.0
+
+commands:
+  helpreload:
+    description: Reload the HelpfulHelp plugin.
+    permission: help.reload
+    aliases: [ helprl ]
+  help:
+    description: Displays a help message for the command sender.
+    aliases: [ "?" ]
+
+permissions:
+  help.reload:
+    default: op
