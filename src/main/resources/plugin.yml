@@ -1,11 +1,11 @@
 name: HelpfulHelp
-description: None.
+description: Interactive help menu.
 
-author: SavageAvocado.
-website: savagedev.net
+author: SavageAvocado
+website: https://www.savagedev.net/
 
 main: net.savagedev.helpfulhelp.HelpfulHelp
-version: 1.0
+version: ${version}
 
 commands:
   helpreload:
@@ -13,7 +13,7 @@ commands:
     permission: help.reload
     aliases: [ helprl ]
   help:
-    description: Displays a help message for the command sender.
+    description: Displays a help message.
     aliases: [ "?" ]
 
 permissions:
